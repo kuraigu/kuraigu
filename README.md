@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Hero Banner SVG -->
-  <img src="https://github.com/apps/github-actions5" width="100%" alt="Innoh Reloza Banner" />
+  <img src="./banner.svg" width="100%" alt="Innoh Reloza Banner" />
 
   <br /><br />
 
@@ -10,7 +10,7 @@
     <a href="YOUR_LINKEDIN_URL">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:YOUR_EMAIL_ADDRESS">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://discord.com">
@@ -79,5 +79,5 @@
 
 <!-- Footer Wave SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kuraigu/kuraigu/main/wave.svg" width="100%" alt="Animated Wave" />
+  <img src="./wave.svg" width="100%" alt="Animated Wave" />
 </div>
