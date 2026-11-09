@@ -1,18 +1,83 @@
-### Hi there!
+<div align="center">
 
-My name is Innoh Reloza (kuraigu / dippedinsoju). I am a Software Engineer and a Game Developer.
+  <!-- Hero Banner SVG -->
+  <img src="https://github.com/apps/github-actions5" width="100%" alt="Innoh Reloza Banner" />
 
-### Tech Stack & Tools
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  <br /><br />
 
-### OpenSource Project Contributions
-[![darknecrocities/DomoDomo All-in-one Tool](https://img.shields.io/badge/darknecrocities-DomoDomo_All--in--one_Tool-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darknecrocities/DomoDomo---All-in-one-Tool) 
-> **As Contributor:** Streamlined the project's Docker workflows, enhanced system security, and developed a suite of custom user, developer, and local AI tools.
+  <!-- Contact / Social Links -->
+  <p align="center">
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR_EMAIL">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://discord.com">
+      <img src="https://img.shields.io/badge/Discord-dippedinsoju-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
 
-[![kuraigu/Vinta](https://img.shields.io/badge/kuraigu-Vinta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuraigu/Vinta) (TO BE PUBLIC SOON)
-> **As Project Founder** 
+</div>
 
-### Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-innoh-craig-reloza/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:innohreloza.1@gmail.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+<hr />
 
-<img src="wave.svg" alt="Animated Wave" width="100%">
+<h3 align="center">⚡ Tech Stack & Tools</h3>
+
+<div align="center">
+
+  <p align="center">
+    <b>Systems & Backend</b><br />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,py,java,postgres&theme=dark" height="42" alt="Systems & Backend" />
+  </p>
+
+  <p align="center">
+    <b>Desktop, Web & Game Dev</b><br />
+    <img src="https://skillicons.dev/icons?i=svelte,ts,js,cs,unity,solidity&theme=dark" height="42" alt="Desktop, Web & Game Dev" />
+  </p>
+
+  <p align="center">
+    <b>Infrastructure & Environment</b><br />
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,powershell,git,vscode&theme=dark" height="42" alt="Infrastructure & Environment" />
+  </p>
+
+</div>
+
+<hr />
+
+<h3 align="center">🚀 Open Source & Featured Work</h3>
+
+<div align="center">
+
+  <h4>
+    <a href="https://github.com/kuraigu/Vinta">kuraigu / Vinta</a>
+  </h4>
+  <p>
+    <img src="https://img.shields.io/badge/Role-Project_Founder-58a6ff?style=flat-square&labelColor=0d1117" alt="Project Founder" />
+    <img src="https://img.shields.io/badge/Stack-Go_%E2%80%A2_Wails_%E2%80%A2_Svelte_%E2%80%A2_TypeScript_%E2%80%A2_JavaScript_%E2%80%A2_Batch-ff3e00?style=flat-square&labelColor=0d1117" alt="Stack" />
+  </p>
+  <p>
+    A dynamic island and notch overlay desktop utility for Windows, built with Go and Svelte.
+  </p>
+
+  <br />
+
+  <h4>
+    <a href="https://github.com/darknecrocities/DomoDomo---All-in-one-Tool">darknecrocities / DomoDomo</a>
+  </h4>
+  <p>
+    <img src="https://img.shields.io/badge/Role-Contributor-3fb950?style=flat-square&labelColor=0d1117" alt="Contributor" />
+    <img src="https://img.shields.io/badge/Stack-Docker_%E2%80%A2_AI_Tools_%E2%80%A2_TypeScript_%E2%80%A2_JavaScript-2496ed?style=flat-square&labelColor=0d1117" alt="Stack" />
+  </p>
+  <p>
+    Streamlined the project's Docker workflows, hardened system security, and developed a suite of custom client-side user, developer, and local AI tools.
+  </p>
+
+</div>
+
+<br />
+
+<!-- Footer Wave SVG -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kuraigu/kuraigu/main/wave.svg" width="100%" alt="Animated Wave" />
+</div>
