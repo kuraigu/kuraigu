@@ -26,12 +26,12 @@
 
   <!-- Subtitle -->
   <text x="450" y="135" font-family="JetBrains Mono, Fira Code, monospace" font-size="15" fill="#8b949e" text-anchor="middle">
-    Software Engineer  •  Desktop + Game Developer  • Researcher •<tspan fill="#58a6ff">@kuraigu</tspan>
+    Software Engineer  •  Desktop + Game Developer  • Researcher • <tspan fill="#58a6ff">@kuraigu</tspan>
   </text>
 
   <!-- Bottom Gradient Line -->
   <rect x="250" y="165" width="400" height="3" rx="1.5" fill="url(#accent)">
-    <animate attributeName="width" values="320;440;320" dur="6s" repeatCount="indefinite" />
-    <animate attributeName="x" values="290;230;290" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="width" values="200;440;200" dur="12s" repeatCount="indefinite" />
+    <animate attributeName="x" values="350;230;350" dur="12s" repeatCount="indefinite" />
   </rect>
 </svg>
